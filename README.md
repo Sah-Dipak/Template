@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Dipak%20Kumar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20passionate%20Software%20Engineer%20from%20India&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Sah-Dipak">
     <img src="https://komarev.com/ghpvc/?username=Sah-Dipak&label=Profile%20views&color=00FFFF&style=flat-square" alt="Sah-Dipak's profile views" />
   </a>
-</p>
+</p> -->
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" /> -->
 
@@ -15,13 +15,10 @@
 - 🛠️ Building projects and improving skills every day
 
 - Skills
-- C Programming
-- HTML
-- CSS
-- JavaScript
-- JAVA
-- DBMS
-- Python
+  
+- C Programming , HTML , CSS , JavaScript 
+- JAVA ,DBMS , Python
+  
 - ⭐ Always learning new things and creating projects!
 
 
